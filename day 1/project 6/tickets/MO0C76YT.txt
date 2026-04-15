@@ -1,0 +1,8 @@
+Prio: Not urgent
+
+Name: Zaq
+
+Submitted: 2026-04-15T19:41:19.654+02:00
+
+Description:
+PC battery issues.
