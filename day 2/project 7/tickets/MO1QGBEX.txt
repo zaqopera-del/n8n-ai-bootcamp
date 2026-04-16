@@ -1,1 +1,12 @@
-User Name: Unknown User  Submitted: 2026-04-16T19:08:03.658+02:00  Description: Can multiple users work in the same account?  Status: Open Prio: Not Urgent
+User Name: Unknown User
+
+Submitted: 2026-04-16T19:08:03.658+02:00
+
+Description: Can multiple users work in the same account?
+
+Status: Open
+Prio: Not Urgent
+
+Activity Log:
+2026-04-16T19:08:03.658+02:00 - Ticket created.
+2026-04-16T19:12:00.000+02:00 - User requested escalation regarding shared CRM accounts. Ticket escalated to a human IT technician for further guidance.
