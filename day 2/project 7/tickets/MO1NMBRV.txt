@@ -1,0 +1,1 @@
+User Name: Zaq  Submitted: 2026-04-16T17:48:45.212+02:00  Description: User reports that the PC battery is fluctuating, suggesting a hardware or power management issue.  Status: Open Prio: Not Urgent
