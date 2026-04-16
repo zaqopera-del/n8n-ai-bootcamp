@@ -5,5 +5,9 @@ Submitted: 2026-02-09T22:03:19.074+01:00
 Description:
 User Tobias reports that their laptop fell down. Potential hardware damage needs to be assessed.
 
-Status: Open
+Status: Closed
 Prio: Urgent
+
+Activity Log:
+2026-02-09T22:03:19.074+01:00 - Ticket created (Urgent). Escalated for hardware assessment.
+2026-02-09T22:35:00.000+01:00 - User reported: "My Laptop is good now. Please close the ticket". Ticket closed.
